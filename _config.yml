@@ -1,0 +1,47 @@
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+minimal_mistakes_skin: dark
+
+locale: en-US
+title: Zipcodeman is Making Things
+subtitle: And Here You Can Find Them
+name: Zara Sabre
+description: >
+  A site for all of zipcodeman's creative works, including podfics, games, and music.
+url: https://zipcodeman.name
+logo: /assets/images/logo.png
+show_date: true
+atom_feed:
+  path: https://anchor.fm/s/9bdf27d0/podcast/rss
+twitter:
+  username: _zipcodeman
+og_image: /assets/images/logo.png
+analytics:
+  provider: google-gtag
+  google:
+    tracking_id: G-6N8Q0D5EZD
+
+author:
+  name: Zara Sabre
+  email: thezarasaber@gmail.com
+  avatar: /assets/images/logo.png
+  bio: A potato person who makes things, occasionally
+  location: Earth
+  links:
+    - label: Twitter
+      icon: fab fa-fw fa-twitter-square
+      url: https://twitter.com/_zipcodeman
+    - label: itch.io
+      icon: fab fas fa-gamepad
+      url: https://zipcodeman.itch.io
+    - label: Ao3
+      icon: fab fas fa-book
+      url: https://archiveofourown.org/users/zipcodeman
+    - label: Podcast
+      icon: fas fa-rss-square
+      url: https://anchor.fm/podfics
+github:
+  is_project_page: false
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
