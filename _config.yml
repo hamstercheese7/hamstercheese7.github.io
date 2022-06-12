@@ -16,6 +16,12 @@ author:
   social:
     twitter: buggyisbest
 
+menu:
+  - title: Archive Of Our Own
+    url: https://archiveofourown/users/hamstercheese7
+
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-avatar
