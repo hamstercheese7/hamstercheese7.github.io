@@ -2,7 +2,7 @@ remote_theme: hydecorp/hydejack@v9.1.6
 
 lang: en-US
 url: https://hamstercheese7.github.io
-accent_image: /assets/images/waves.jpg
+accent_image: /assets/images/trees.jpg
 accent_color: "#136466"
 logo: /assets/images/bread.png
 
