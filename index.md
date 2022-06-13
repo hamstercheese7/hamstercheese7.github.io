@@ -17,4 +17,6 @@ Reach out to me for commissions, fan projects, or original projects.
 
 You can get in contact with me on [twitter](https://twitter.com/buggyisbest) or [email me](mailto:hamstercheese77+sitecontact@gmail.com).
 
+## Twitter Feed
+
 <a class="twitter-timeline" href="https://twitter.com/buggyisbest?ref_src=twsrc%5Etfw">Tweets by buggyisbest</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
