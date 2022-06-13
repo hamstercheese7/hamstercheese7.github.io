@@ -18,6 +18,10 @@ author:
     twitter: buggyisbest
 
 menu:
+  - title: About Ham
+    url: /
+  - title: Projects
+    url: /projects/
   - title: Archive Of Our Own
     url: https://archiveofourown.org/users/hamstercheese7
 

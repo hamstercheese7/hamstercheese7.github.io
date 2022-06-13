@@ -5,6 +5,8 @@ cover: true
 author_profile: true
 ---
 
-<!--author-->
+Heyo, I'm Ham! I live mostly in One Piece fandom and write [a lot of fics](https://archiveofourown.org/users/hamstercheese7) about the OP Marines. They hurt me and I love that. 
+
+Beyond that, I absolutley love making and being a part of fandom projects and zines! Check my [Projects](/projects) page for more info on that. 
 
 <a class="twitter-timeline" href="https://twitter.com/buggyisbest?ref_src=twsrc%5Etfw">Tweets by buggyisbest</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
