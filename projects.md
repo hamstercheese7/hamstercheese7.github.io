@@ -5,39 +5,54 @@ permalink: /projects/
 
 Take a look at how many projects I was unable to stop myself from joining and/or starting!
 
+## Key
+
+* Planning - 💭
+* Creation - ✏️
+* Preorders - 💸
+* Shipping - 📦
+* Complete - ✅
+* Ongoing - 🔁
+
 ## Theme Weeks/Fan Events
-* [✏️ OP Admirals Week](https://twitter.com/PieceWeek)
-* [✏️ OP Marines Week](https://twitter.com/marines_one)
+
+* [🔁 OP Admirals Week](https://twitter.com/PieceWeek)
+* [🔁 OP Marines Week](https://twitter.com/marines_one)
 * [✅ OP Fight Week](https://twitter.com/opfightweek)
 * [✅ OP Reverse Bang 2022](https://twitter.com/ReverseBang)
 * [✅ OP Secret Santa 2021](https://twitter.com/OP_SecretSanta)
 
 ## Games
-* ✏️ Unnamed Dating Sim 👀
+
+* 💭 Unnamed Dating Sim 👀
 * [✅ New York: 2121](https://zipcodeman.itch.io/new-york-2121)
 * [✅ Outfoxed](https://zipcodeman.itch.io/outfoxed)
 * [✅ Flaked!](https://zipcodeman.itch.io/flaked)
 
 ## Zines
+
 ### Head Mod
+
+* [💭 OP Shore Leave](https://twitter.com/OpMarines)
+* [💭 OP Summer Festival Zine](https://twitter.com/summerfest_zine)
 * [✏️ OP Bad to the Bone](https://twitter.com/OPBadbone)
-* [✏️ OP Shore Leave](https://twitter.com/OpMarines)
-* [✏️ OP Summer Festival Zine](https://twitter.com/summerfest_zine)
-* [✅ OP Justice Anthology](https://twitter.com/op_justicezine)
+* [💸 OP Justice Anthology](https://twitter.com/op_justicezine)
 * [✅ OP Valentines Zine](https://twitter.com/opvsdayzine)
 
 ### Writer Mod
-* [✏️ Demon Slayer Pillars of Life Zine](https://twitter.com/)
-* [✏️ OP Cora Zine](https://twitter.com/TheCorazine)
+
+* [💭 Demon Slayer Pillars of Life Zine](https://twitter.com/)
+* [💭 OP Cora Zine](https://twitter.com/TheCorazine)
+* [💭 OP Izou Zine](https://twitter.com/OPIzouZine)
+* [💭 OP Legends of the Sea](https://twitter.com/opmythologyzine)
+* [💭 OP Marco Zine](https://twitter.com/opmarcozine)
 * [✏️ OP Dilf Zine](https://twitter.com/opdilfzine)
-* [✏️ OP Flowers Zine](https://twitter.com/OPFlowersZine)
 * [✏️ OP Halloween Zine](https://twitter.com/OPHalloweenZine)
-* [✏️ OP Izou Zine](https://twitter.com/OPIzouZine)
-* [✏️ OP Legends of the Sea](https://twitter.com/opmythologyzine)
-* [✏️ OP Luffy Zine](https://twitter.com/opluffyzine)
-* [✏️ OP Marco Zine](https://twitter.com/opmarcozine)
+* [📦 OP Flowers Zine](https://twitter.com/OPFlowersZine)
+* [📦 OP Luffy Zine](https://twitter.com/opluffyzine)
 
 ### Writer for
+
 * [✏️ Hatoful Boyfriend Zine](https://twitter.com/hatokare_zine)
 * [✏️ OP Coby Zine](https://cobyzine.carrd.co/)
 * [✏️ OP Esuka Zine](https://twitter.com/acexisuka)

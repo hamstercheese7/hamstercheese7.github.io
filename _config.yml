@@ -8,6 +8,7 @@ logo: /assets/images/bread.png
 
 title: Ham Town
 description: Fanfiction Author, Game Writer, and Zine Enthusiast. Lover of One Piece, Dragon Age, Mass Effect, and too many books to count.
+copyright: © 2022 hamstercheese7. All rights reserved.
 
 author:
   name: Hamstercheese7
@@ -24,6 +25,9 @@ menu:
     url: /projects/
   - title: Archive Of Our Own
     url: https://archiveofourown.org/users/hamstercheese7
+
+hydejack:
+  no_mark_external: true
 
 
 plugins:
