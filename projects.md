@@ -16,6 +16,7 @@ Take a look at how many projects I was unable to stop myself from joining and/or
 
 ## Theme Weeks/Fan Events
 
+* [✏️ OP Soulmates Bingo Event](https://twitter.com/opsoulmates)
 * [🔁 OP Admirals Week](https://twitter.com/PieceWeek)
 * [🔁 OP Marines Week](https://twitter.com/marines_one)
 * [✅ OP Fight Week](https://twitter.com/opfightweek)
@@ -33,26 +34,36 @@ Take a look at how many projects I was unable to stop myself from joining and/or
 
 ### Head Mod
 
+* One Piece Zine Community Discord Server (Invite Only)
+* [💭 OP Legends of the Sea](https://twitter.com/opmythologyzine)
+* [💭 Sandwich Zine](https://twitter.com/TheSandwichZine)
 * [💭 OP Shore Leave](https://twitter.com/OpMarines)
-* [💭 OP Summer Festival Zine](https://twitter.com/summerfest_zine)
+* [💭 OP Through The Ages](https://twitter.com/opttazine)
+* [✏️ OP Summer Festival Zine](https://twitter.com/summerfest_zine)
 * [✏️ OP Bad to the Bone](https://twitter.com/OPBadbone)
-* [💸 OP Justice Anthology](https://twitter.com/op_justicezine)
+* [✅ OP Justice Anthology](https://twitter.com/op_justicezine)
 * [✅ OP Valentines Zine](https://twitter.com/opvsdayzine)
 
-### Writer Mod
 
-* [💭 Demon Slayer Pillars of Life Zine](https://twitter.com/)
+### Writer/Other Mod Positions
+
+* 💭 OP Doflamingo Zine
+* [💭 OP Charting the Stars Tarot Project](https://twitter.com/OPChartingtheStars)
+* [💭 Demon Slayer Pillars of Life Zine](https://twitter.com/PillarsZine)
 * [💭 OP Cora Zine](https://twitter.com/TheCorazine)
-* [💭 OP Izou Zine](https://twitter.com/OPIzouZine)
 * [💭 OP Legends of the Sea](https://twitter.com/opmythologyzine)
 * [💭 OP Marco Zine](https://twitter.com/opmarcozine)
+* [✏️ OP Izou Zine](https://twitter.com/OPIzouZine)
 * [✏️ OP Dilf Zine](https://twitter.com/opdilfzine)
 * [✏️ OP Halloween Zine](https://twitter.com/OPHalloweenZine)
 * [📦 OP Flowers Zine](https://twitter.com/OPFlowersZine)
 * [📦 OP Luffy Zine](https://twitter.com/opluffyzine)
+* [📦 TLOU: Our Future Days Zine](https://twitter.com/OurFuture_Tlou)
+
 
 ### Writer for
 
+* [✏️ Naruto Calendar 2023](https://naruto-calendar.carrd.co)
 * [✏️ Hatoful Boyfriend Zine](https://twitter.com/hatokare_zine)
 * [✏️ OP Coby Zine](https://cobyzine.carrd.co/)
 * [✏️ OP Esuka Zine](https://twitter.com/acexisuka)
@@ -70,4 +81,3 @@ Take a look at how many projects I was unable to stop myself from joining and/or
 * [✅ OP Usopp Zine](https://twitter.com/WomenWantedZine)
 * [✅ OP Women! Wanted Zine](https://twitter.com/WomenWantedZine)
 * [✅ PinOP Zine](https://twitter.com/pinopzine)
-* [✅ TLOU: Our Future Days Zine](https://twitter.com/OurFuture_Tlou)
