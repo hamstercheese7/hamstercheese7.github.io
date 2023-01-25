@@ -36,28 +36,27 @@ Take a look at how many projects I was unable to stop myself from joining and/or
 ### Head Mod
 
 * One Piece Zine Community Discord Server (Invite Only)
-* [💭 OP Legends of the Sea](https://twitter.com/opmythologyzine)
 * [💭 OP Through The Ages](https://twitter.com/opttazine)
+* [✏️ OP Legends of the Sea](https://twitter.com/opmythologyzine)
 * [✏️ Sandwich Zine](https://twitter.com/TheSandwichZine)
 * [✏️ OP Shore Leave](https://twitter.com/OpMarines)
-* [✏️ OP Summer Festival Zine](https://twitter.com/summerfest_zine)
-* [💸 OP Bad to the Bone](https://twitter.com/OPBadbone)
+* [📦 OP Bad to the Bone](https://twitter.com/OPBadbone)
+* [✅ OP Summer Festival Zine](https://twitter.com/summerfest_zine)
 * [✅ OP Justice Anthology](https://twitter.com/op_justicezine)
 * [✅ OP Valentines Zine](https://twitter.com/opvsdayzine)
 
 
 ### Writer/Other Mod Positions
 
-* [💭 OP Doflamingo Zine](https://twitter.com/opdoffyzine)
-* [💭 OP Charting the Stars Tarot Project](https://twitter.com/OPChartingtheStars)
-* [💭 Demon Slayer Pillars of Life Zine](https://twitter.com/PillarsZine)
-* [💭 OP Legends of the Sea](https://twitter.com/opmythologyzine)
-* [💭 OP Marco Zine](https://twitter.com/opmarcozine)
-* [💭 OP Growing Pains Zine](https://twitter.com/growingpainsop)
+* [✏️ OP Doflamingo Zine](https://twitter.com/opdoffyzine)
+* [✏️ OP Charting the Stars Tarot Project](https://twitter.com/OPChartingtheStars)
+* [✏️ OP Legends of the Sea](https://twitter.com/opmythologyzine)
+* [✏️ OP Marco Zine](https://twitter.com/opmarcozine)
+* [✏️ OP Growing Pains Zine](https://twitter.com/growingpainsop)
 * [✏️ OP Cora Zine](https://twitter.com/TheCorazine)
 * [✏️ OP Izou Zine](https://twitter.com/OPIzouZine)
-* [💸 OP Dilf Zine](https://twitter.com/opdilfzine)
-* [💸 OP Halloween Zine](https://twitter.com/OPHalloweenZine)
+* [📦 OP Dilf Zine](https://twitter.com/opdilfzine)
+* [✅ OP Halloween Zine](https://twitter.com/OPHalloweenZine)
 * [✅ Hatoful Boyfriend Zine](https://twitter.com/hatokare_zine)
 * [✅ OP Flowers Zine](https://twitter.com/OPFlowersZine)
 * [✅ OP Luffy Zine](https://twitter.com/opluffyzine)
@@ -66,10 +65,11 @@ Take a look at how many projects I was unable to stop myself from joining and/or
 
 ### Writer for
 
-* [✏️ Naruto Calendar 2023](https://naruto-calendar.carrd.co)
 * [✏️ OP Coby Zine](https://cobyzine.carrd.co/)
 * [✏️ OP Shuggy Zine](https://twitter.com/shggyzine)
-* [💸 OP Yamato Zine](https://twitter.com/YamabroZine)
+* [✏️ OP Rock the Boat Zine](https://twitter.com/OPMusicZine)
+* [✅ Naruto Calendar 2023](https://naruto-calendar.carrd.co)
+* [✅ OP Yamato Zine](https://twitter.com/YamabroZine)
 * [✅ OP Esuka Zine](https://twitter.com/acexisuka)
 * [✅ Egg Zine](https://twitter.com/aneggzine)
 * [✅ Naruto 2021 Photo Album Zine](https://naruto-photo-album.tumblr.com/post/662916555865210880/naruto-photo-album-2021)
