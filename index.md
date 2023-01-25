@@ -5,9 +5,9 @@ cover: true
 author_profile: true
 ---
 
-Heyo, I'm Ham! I live mostly in One Piece fandom and write [a lot of fics](https://archiveofourown.org/users/hamstercheese7) about the OP Marines. They hurt me and I love that. 
+Heyo, I'm Ham! I live mostly in One Piece fandom and write [a lot of fics](https://archiveofourown.org/users/hamstercheese7) about the OP Marines. They hurt me and I adore that. 
 
-Beyond that, I absolutley love making and being a part of fandom projects and zines! Check my [Projects](/projects) page for more info on that. 
+Beyond that, I absolutely love making and being a part of fandom projects and zines! Check my [Projects](/projects) page for more info on that. 
 
 ## Contact Me
 
