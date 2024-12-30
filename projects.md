@@ -38,11 +38,11 @@ Take a look at how many projects I was unable to stop myself from joining and/or
 * One Piece Zine Mods Community Discord Server (Invite Only)
 * One Piece Zine & Events Community Discord Server 
 * [✏️ OP The Nyan Piece Zine](https://twitter.com/thenyanpiece)
-  [💸 OP Land Ho! Zine](https://twitter.com/opatlaszine)
-  [📦 OP Sticker Trove](https://twitter.com/opstickertrove)
-  [✏️ Godzilla Realm of Monsters Zine](https://twitter.com/RofMonsterszine)
-  [💸 OP MILFs Zine](https://twitter.com/opmomszine)
-  [✅ OP Meet me at Lesbos Zine](https://twitter.com/oplesbianzine)
+* [💸 OP Land Ho! Zine](https://twitter.com/opatlaszine)
+* [📦 OP Sticker Trove](https://twitter.com/opstickertrove)
+* [✏️ Godzilla Realm of Monsters Zine](https://twitter.com/RofMonsterszine)
+* [💸 OP MILFs Zine](https://twitter.com/opmomszine)
+* [✅ OP Meet me at Lesbos Zine](https://twitter.com/oplesbianzine)
 * [✅ OP Met Gala Zine](https://twitter.com/opmetgalazine)
 * [✅ OP Fluff Zine](https://twitter.com/opfluffzine)
 * [📦 OP Kid Pirates Zine](https://twitter.com/kidpirateszine)
@@ -60,10 +60,10 @@ Take a look at how many projects I was unable to stop myself from joining and/or
 ### Writer/Other Mod Positions
 
 * [💸 After Death, Life Again Zine](https://twitter.com/delysiumzine) 
-  [✏️ Commrades: Kaiju No. 8 Zine](https://twitter.com/KaijuNo8Zine) 
-  [✏️ OP Dark Carnival Zine](https://twitter.com/OPCircusZine)
-  [✏️ OP Cipher Pol Zine](https://twitter.com/CipherPolZine) Formatting Mod
-  [✅ OP Ghost Princess: A Merch Project](https://twitter.com/PeronaProject)
+* [✏️ Commrades: Kaiju No. 8 Zine](https://twitter.com/KaijuNo8Zine) 
+* [✏️ OP Dark Carnival Zine](https://twitter.com/OPCircusZine)
+* [✏️ OP Cipher Pol Zine](https://twitter.com/CipherPolZine) Formatting Mod
+* [✅ OP Ghost Princess: A Merch Project](https://twitter.com/PeronaProject)
 * [📦 OP Sabo Zine](https://twitter.com/SaboZine)
 * [✅ OP Doflamingo Zine](https://twitter.com/opdoffyzine)
 * [✅ OP Charting the Stars Tarot Project](https://twitter.com/OPChartingtheStars)
@@ -84,9 +84,9 @@ Take a look at how many projects I was unable to stop myself from joining and/or
 ### Writer for
 
 * [✅ OP Buggy Zine](https://buggy-zine.carrd.co/)
-  [✅ OP Moments in the Sun Zine](https://twitter.com/alabastazine)
-  [✅ OP Smoker Zine](https://twitter.com/smokerzine)
-  [✅ OP Sailing the Stars Zine](https://twitter.com/op_space_zine)
+* [✅ OP Moments in the Sun Zine](https://twitter.com/alabastazine)
+* [✅ OP Smoker Zine](https://twitter.com/smokerzine)
+* [✅ OP Sailing the Stars Zine](https://twitter.com/op_space_zine)
 * [✅ OP Coby Zine](https://cobyzine.carrd.co/)
 * [✅ OP Shuggy Zine](https://twitter.com/shggyzine)
 * [✅ OP Rock the Boat Zine](https://twitter.com/OPMusicZine)
