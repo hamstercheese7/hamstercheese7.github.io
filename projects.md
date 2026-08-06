@@ -62,8 +62,8 @@ Take a look at how many projects I was unable to stop myself from joining and/or
 ### Writer/Other Mod Positions
 
 * [✏️ Virtualization, a Code Lyoko Zine](https://codelyokozine2.carrd.co/) Formatting Mod
-* [💸 Lockdown, BKDKBK Zine](lockdownzine.carrd.co) 
-* [💸 After Death, Life Again Zine](https://twitter.com/delysiumzine) 
+* [✅ Lockdown, BKDKBK Zine](lockdownzine.carrd.co) 
+* [✅ After Death, Life Again Zine](https://twitter.com/delysiumzine) 
 * [📦 Commrades: Kaiju No. 8 Zine](https://twitter.com/KaijuNo8Zine) 
 * [✅ 20,000 Leagues Under the Sea Zine](https://20kleagueszine.carrd.co/)
 * [✅ OP Cipher Pol Zine](https://twitter.com/CipherPolZine) Formatting Mod
@@ -87,7 +87,7 @@ Take a look at how many projects I was unable to stop myself from joining and/or
 
 ### Writer for
 
-* [✏️ Polar Lights Zine](https://polarlightszine.itch.io/)
+* [✅ Polar Lights Zine](https://polarlightszine.itch.io/)
 * [✅ OP Buggy Zine](https://buggy-zine.carrd.co/)
 * [✅ OP Moments in the Sun Zine](https://twitter.com/alabastazine)
 * [✅ OP Smoker Zine](https://twitter.com/smokerzine)
